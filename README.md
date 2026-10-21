@@ -32,12 +32,7 @@ A short description of your data analysis project: what dataset you used, why yo
   <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
 </ul>
 
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </p>
 
 ---
@@ -45,8 +40,6 @@ A short description of your data analysis project: what dataset you used, why yo
 ## Installation
 
 Example of a Step-by-step instructions to set up the project locally:
-
-```bash
 
 # Clone the repository
 git clone https://github.com/BenJones621/Coded-correspondence.git
@@ -59,8 +52,6 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 
-
-```
 
 ## Usage
 
